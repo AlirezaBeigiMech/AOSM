@@ -1,2 +1,5 @@
 # AOSM
-State and parameter estimation for a class of Nonlinear Systems based on Sliding Mode Approach
+
+Alvaro-Mendoza, E., De León-Morales, J., & Salas-Peña, O. (2021). State and parameter estimation for a class of Nonlinear Systems based on Sliding Mode Approach. ISA transactions, 112, 99-107.
+
+In this paper, simultaneous state estimation and parameters identification for a class of nonlinear systems are addressed. With the aim of solving this problem, an adaptive observer based on the sliding mode (AOSM) approach is designed. The main advantage of the proposed adaptive observer design is that it combines the robustness and finite time convergence of the sliding mode observers, with the simplicity of tuning of high-gain observers, reducing tuning effort. The finite time convergence of the proposed adaptive observer is established using a Lyapunov approach. Furthermore, a comparative study of the proposed adaptive observer against schemes from literature is presented, in order to show the advantages of the proposed approach. Finally, numerical results are provided to demonstrate the effectiveness and performance of the proposed approach under noise and external disturbances.
